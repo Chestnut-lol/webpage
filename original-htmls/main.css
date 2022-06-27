@@ -1464,21 +1464,13 @@ input, select, textarea {
 		}
 
 		header.style1 p {
-			/* color: #b1b4b9; */
-            color: #131415;
+			color: #b1b4b9;
 			display: block;
 			margin: 1.15em 0 0 0;
 			font-size: 1.3em;
 			letter-spacing: 0.075em;
 			line-height: 1.5em;
 		}
-    p {
-        color: #131415;
-        font-size: 1.4em;
-        letter-spacing: 0.075em;
-        line-height: 1.4em;
-    }
-    
 
 /* Table */
 
@@ -1955,15 +1947,9 @@ input, select, textarea {
 		width: 5em;
 	}
 
-	.box.post-excerpt h3 {
-		margin-left: 6em;
-        font-size: 1.3em;
+	.box.post-excerpt h3, .box.post-excerpt p {
+		margin-left: 7em;
 	}
-
-    .box.post-excerpt p {
-        margin-left: 6em;
-        font-size: 1.3em;
-    }
 
 /* Wrapper */
 
